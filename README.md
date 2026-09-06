@@ -51,7 +51,7 @@ The limitations listed here are cases the package may not yet handle
 perfectly. Please open an issue if you find any other limitations or
 bugs while testing.
 
-## Donate me
+## Buy me a coffee
 
 ```
             :*%@@@@@@@@%#=                         #%.    #%.   -#%@@@@@@@@%*-
